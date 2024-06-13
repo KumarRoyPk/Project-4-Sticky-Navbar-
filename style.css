@@ -1,0 +1,56 @@
+body{
+ margin: 0px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin: 0px;
+}
+#header{
+    text-align: center;
+}
+#logo{
+    width:200px;
+    height: auto;
+    margin: 0px auto;
+}
+.sticky{
+    position: sticky;
+    top: 0px;
+   
+}
+#navbar{
+    background-color: rgba(71, 63, 63,0.7);
+    margin: 2px;
+    padding: 1px 0px;
+    margin: 0px;
+   
+}
+ul{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    padding: 10px 10px;
+    font-size: 18px;
+    color: white;
+}
+#container{
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: auto;
+
+}
+p{
+    text-align: justify;
+    font-size: 17px;
+
+}
